@@ -30,11 +30,11 @@
           <version>3.4.2</version>
           <configuration>
             <archive>
-              <manifestation>
+              <manifest>
                 <MainClass>
                   org.example.App
                 </MainClass>
-              </manifestation>
+              </manifest>
             </archive>
           </configuration>
         </plugin>
